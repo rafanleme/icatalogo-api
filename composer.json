@@ -1,0 +1,10 @@
+{
+    "name": "rleme/icatalogo-api",
+    "description": "iCatalogo API REST",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
